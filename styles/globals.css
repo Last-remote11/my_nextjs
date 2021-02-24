@@ -7,8 +7,11 @@ body {
 }
 
 a {
-  color: inherit;
+  color: purple;
   text-decoration: none;
+}
+a :hover {
+  color: red;
 }
 
 * {
